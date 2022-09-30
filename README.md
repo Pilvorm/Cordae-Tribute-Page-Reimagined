@@ -18,7 +18,8 @@ With contents taken from:
 - and various websites for the gallery.
 
 Challenges:
-- I wanted every section to be in a single page - not needing to reload the page when choosing another section to read. Making the navigation bar was the most challenging part when developing this page. Good thing jQuery's element's class manipulation (includes addClass, removeClass) was simple, but yet effective. The fadeIn and fadeOut functions came in handy for smooth section transitions!
+- I wanted every section to be on a single page - not needing to reload the page when choosing another section to read. Making the navigation bar was the most challenging part when developing this page. Good thing jQuery's element's class manipulation (includes addClass, removeClass) was simple, but yet effective. The fadeIn and fadeOut functions came in handy for smooth section transitions!
+- Was confused about why media queries won't work when resizing the browser. Turns out I used **max-device-width** instead of **max-width**. With max-device-width, the media queries only run on devices that fulfill size conditions.
 
 ## Go see the page!
 See the page [here](https://codepen.io/danielemerald/full/JjvjRWM).
