@@ -1,4 +1,4 @@
-# Cordae Tribute Page Reimagined - <span>[Live Preview](https://codepen.io/danielemerald/full/JjvjRWM)</span>
+# Cordae Tribute Page Reimagined - <span>[Live Preview](https://cordae-tribute-page-reimagined.vercel.app/)</span>
 My tribute page about Cordae reimagined.
 
 ## Backstory
@@ -24,4 +24,4 @@ Challenges:
 - Was confused about why media queries won't work when resizing the browser. Turns out I used **max-device-width** instead of **max-width**. With max-device-width, the media queries only run on devices that fulfill size conditions.
 
 ## Go see the page!
-See the page [here](https://codepen.io/danielemerald/full/JjvjRWM).
+See the page [here](https://cordae-tribute-page-reimagined.vercel.app/).
