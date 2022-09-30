@@ -1,4 +1,4 @@
-# Cordae Tribute Page Reimagined - <span>[Live Preview](https://cordae-tribute-page-reimagined.vercel.app/)</span>
+# Cordae Tribute Page Reimagined - [Live Preview](https://cordae-tribute-page-reimagined.vercel.app/)
 My tribute page about Cordae reimagined.
 
 ![Gallery](https://user-images.githubusercontent.com/86703782/193221058-f10587ab-dfd4-4f36-a3cb-5d3d5e3c39ba.png)
